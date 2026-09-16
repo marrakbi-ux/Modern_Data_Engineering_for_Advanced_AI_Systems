@@ -38,7 +38,8 @@ The system:
 
 Smart_Resume_Job_Matching_RAG.ipynb
 
+
 ### Program
 
 Modern Data Engineering for Advanced AI Systems  
-SDAIA Academy
+[SDAIA Academy](https://github.com/SDAIAAcademy)
